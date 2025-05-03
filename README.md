@@ -1,5 +1,5 @@
 ## Hi there 😎 
-Olá meu nome e Guilherme, sou um desenvolvedor Front End ataualmente estou aprendendo e fazendo projetos com:
+Olá meu nome e Guilherme, sou um desenvolvedor Front End atualmente estou aprendendo e fazendo projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
